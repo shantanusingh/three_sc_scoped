@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sn_cmp_rb_op_impl">
+    <sn_cmp_rb_op_impl action="INSERT_OR_UPDATE">
+        <interface display_value="Discovery Interface">9c7039300b903200668daac125673ad8</interface>
+        <operation display_value="ListSubscriptions">9f28faab0b0003003503e0d425673adf</operation>
+        <operation_output_attributes/>
+        <resource display_value="Google Compute Datacenter">a8d8a933539303000a7bcdaf33dc3494</resource>
+        <sys_class_name>sn_cmp_rb_op_impl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-03 14:53:06</sys_created_on>
+        <sys_id>f8d8e933539303000a7bcdaf33dc342f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9f28faab0b0003003503e0d425673adf</sys_name>
+        <sys_package display_value="three_sc_scoped" source="sn_three_sc_scoped">0718697f535303000a7bcdaf33dc3433</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="three_sc_scoped">0718697f535303000a7bcdaf33dc3433</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_impl_f8d8e933539303000a7bcdaf33dc342f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-03 14:53:06</sys_updated_on>
+    </sn_cmp_rb_op_impl>
+</record_update>
